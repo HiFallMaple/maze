@@ -8,7 +8,7 @@
 #define DOOR ' '
 #define PATH '.'
 #define POSITION 'X'
-#define SPEED 50
+#define SPEED 40
 #define PERCENT 10
 #define Entrance 0
 #define Exit 1
